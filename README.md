@@ -1,8 +1,7 @@
 Fungsi Program
-
 Program ini dibuat untuk membantu menghitung volume sebuah tabung menggunakan fungsi dalam pemrograman. Jadi, kita cukup memasukkan nilai jari-jari dan tinggi tabung, lalu program akan menghitungnya untuk kita. 
-⚙️ Cara Kerja Program
 
+Cara Kerja Program
 Pertama, program akan meminta kita memasukkan jari-jari dan tinggi tabung. Setelah itu, nilai tadi akan dikirim ke sebuah fungsi khusus yang bertugas menghitung volume tabung menggunakan rumus 
 π×r2×t
 Hasil Outputnya
